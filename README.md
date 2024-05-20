@@ -1,4 +1,5 @@
 # jogo-sequencia
 
-Patrik Melo Dias, 2348136
-Diego de Morais,
+### Participantes
+- Patrik Melo Dias, RA2348136
+- Diego de Morais, RA1998838
