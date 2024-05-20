@@ -82,9 +82,9 @@ function Timer() {
         if (dez.style.display == "none") {
             clearInterval(myTimer)
             document.getElementById("tempo").style.color = "green"
-            document.getElementById("tempo").style.fontSize = "50px"
-            document.getElementById("tempo").style.paddingLeft = "100px"
-            document.getElementById("tempo").style.paddingTop = "250px"
+            document.getElementById("tempo").style.fontSize = "35px"
+            document.getElementById("tempo").style.paddingLeft = "90px"
+            document.getElementById("tempo").style.paddingTop = "150px"
         }
     }, 10);
 }
